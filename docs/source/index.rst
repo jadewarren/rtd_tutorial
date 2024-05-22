@@ -1,22 +1,26 @@
-Welcome to Lumache's documentation!
+ViPRE v2.0
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**ViPRE** is an extension developed for 3D Slicer that is responsible for the analysis of mass spectrometry data. It performs robust data exploration, visualisation, histopathology correspondence (preprocessing and tissue registration), builds predictive models and visualises results, all in one environment.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. image :: https://user-images.githubusercontent.com/72317829/164574154-dc5ca17f-ba24-4d1a-a0f4-ca83088e50ca.png
+   :width: 300
 
 .. note::
+   This project is under active development. 
 
-   This project is under active development.
+ViPRE v2.0 has its documentation hosted on Read the Docs.
 
 Contents
 --------
 
-.. toctree::
+.. toctree:: 
 
-   usage
-   api
+   Installation
+   Importing Data
+   Visulization
+   Generating a Dataset
+   Multi-Slide Alignment
+   Dataset Post-processing
+   Model Training
+   Model Deploymenet
