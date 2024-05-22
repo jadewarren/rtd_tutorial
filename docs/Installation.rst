@@ -2,7 +2,7 @@ Installation
 =====
 
 .. note:: 
-    Use of Slicer MSI requires 3D Slicer. If you are new to 3D Slicer, we recommend that you start be referenceing some of the 3D Slicer resources : `3D Slicer <https://www.slicer.org/wiki/Documentation/4.10/Training>`_\ 
+    Use of Slicer DESI requires 3D Slicer. If you are new to 3D Slicer, we recommend that you start be referenceing some of the 3D Slicer resources : `3D Slicer <https://www.slicer.org/wiki/Documentation/4.10/Training>`_\ 
 
 .. image:: https://github.com/jadewarren/ViPRE2.0-clone/assets/132283032/45658c66-17bf-4083-9914-39111efdfd7e
       :width: 150
